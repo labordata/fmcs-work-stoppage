@@ -1,0 +1,3 @@
+csvkit
+python-dateutil
+csvs-to-sqlite
