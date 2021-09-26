@@ -8,4 +8,4 @@ data.
 I have [FOIAed for more recent data, but the FOIA was denied](https://www.muckrock.com/foi/united-states-of-america-10/work-stoppage-date-from-january-2021-through-august-2021-119149/). I am appealing.
 
 * [Spreadsheet](./work_stoppages.csv)
-* [sqlite db](./work_stoppages.db)
+* [sqlite db](./work_stoppages.db?raw=true)
