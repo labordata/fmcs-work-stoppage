@@ -37,4 +37,4 @@ work_stoppages.csv : $(patsubst %.xlsx,%.csv,$(notdir $(wildcard raw/*.xlsx))) $
 1984-2004.csv : raw/1984-2004.xls
 	in2csv $< | \
             tail -n +7 | \
-            sed '1s/^/Case Number,Employer,Union,Affected City,Affected State,Industry,# Idled,Start Date",End Date,Ending Fiscal Year\n/' > $@
+            sed '1s/^/Case Number,Employer,Union,Affected City,Affected State,Industry,# Idled,Start Date,End Date,Ending Fiscal Year\n/' > $@
