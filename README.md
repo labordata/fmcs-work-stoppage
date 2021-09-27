@@ -10,3 +10,4 @@ I have [FOIAed for more recent data, but the FOIA was denied](https://www.muckro
 
 * [Spreadsheet](./work_stoppages.csv?raw=true)
 * [sqlite db](./work_stoppages.db?raw=true)
+* [Online](https://labordata.bunkum.us/work_stoppages)
